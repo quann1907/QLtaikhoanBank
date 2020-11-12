@@ -1,0 +1,10 @@
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\bin\Debug\Quản lý tài khoản ngân hàng.exe.config
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\bin\Debug\Quản lý tài khoản ngân hàng.exe
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\bin\Debug\Quản lý tài khoản ngân hàng.pdb
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản lý tài khoản ngân hàng.csprojAssemblyReference.cache
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản_lý_tài_khoản_ngân_hàng.FrmSignInCustomer.resources
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản_lý_tài_khoản_ngân_hàng.Properties.Resources.resources
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản lý tài khoản ngân hàng.csproj.GenerateResource.cache
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản lý tài khoản ngân hàng.csproj.CoreCompileInputs.cache
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản lý tài khoản ngân hàng.exe
+C:\Users\QUAN\source\repos\Quản lý tài khoản ngân hàng\Quản lý tài khoản ngân hàng\obj\Debug\Quản lý tài khoản ngân hàng.pdb
